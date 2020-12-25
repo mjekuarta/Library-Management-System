@@ -4,3 +4,5 @@ A desktop application that allows you to insert, edit, remove books while loggin
 
 *Technologies used: Java and Java Swing, Microsoft SQL
 
+
+*includes source code, database file, documentation

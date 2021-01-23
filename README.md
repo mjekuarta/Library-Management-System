@@ -15,9 +15,9 @@ A desktop application that allows you to insert, edit, remove books while loggin
 *includes source code, database file, documentation
 
 ## Contributors
-- [Arta Mjeku] (github.com/mjekuarta)
-- [Enes Pireva] (github.com/enes999)
-- [Shuajb Qerimi] (github.com/shuajbqerimi)
+- Arta Mjeku
+- Enes Pireva
+- Shuajb Qerimi
 
 ## Copyrights
 - Arta Mjeku, UBT 2020

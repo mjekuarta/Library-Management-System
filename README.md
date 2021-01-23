@@ -8,18 +8,18 @@ A desktop application that allows you to insert, edit, remove books while loggin
 
 
 ## Technologies used:
--Java and Java Swing
--Microsoft SQL
+- Java and Java Swing
+- Microsoft SQL
 
 
 *includes source code, database file, documentation
 
 ## Contributors
--Arta Mjeku
--Enes Pireva
--Shuajb Qerimi
+- Arta Mjeku
+- Enes Pireva
+- Shuajb Qerimi
 
 ## Copyrights
--Arta Mjeku, UBT 2020
--Enes Pireva, UBT 2020
--Shuajb Qerimi, UBT 2020
+- Arta Mjeku, UBT 2020
+- Enes Pireva, UBT 2020
+- Shuajb Qerimi, UBT 2020
